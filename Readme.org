@@ -1,0 +1,16 @@
+#-*- mode: org; -*-
+#+DATE: 2015-09-28 22:58:14.204134
+#+TITLE: 原人論
+#+PROPERTY: CBETA_ID T45n1886
+#+PROPERTY: ID KR6e0105
+#+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1886
+#+PROPERTY: VOL 45
+#+PROPERTY: BASEEDITION T
+#+PROPERTY: WITNESS CBETA
+#+PROPERTY: LASTPB <pb:KR6e0105_T_000-0707c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+
+[[file:KR6e0105_001.txt::001-0707c23][原人論序]]
+[[file:KR6e0105_001.txt::0708a25][1斥迷執]]
+[[file:KR6e0105_001.txt::0708c11][2斥偏淺]]
+[[file:KR6e0105_001.txt::0710a10][3直顯真源]]
+[[file:KR6e0105_001.txt::0710b4][4會通本末]]
